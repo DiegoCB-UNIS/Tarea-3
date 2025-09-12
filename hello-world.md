@@ -22,4 +22,4 @@ Soy un estudiante de ingeniería ene electrónica. El motivo por el cuál decido
 5. Electronica
 
 ## Una de mis fondos de pantalla:
-[id]: (asus-rog-republic-of-gamers-logo_3840x2160_xtrafondos.com.jpg)
+[id]:(https://wallpapers.com/images/hd/cool-4k-ultra-hd-nao22k6od4a4djyl.jpg)

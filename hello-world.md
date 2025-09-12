@@ -22,4 +22,4 @@ Soy un estudiante de ingeniería ene electrónica. El motivo por el cuál decido
 5. Electronica
 
 ## Una de mis fondos de pantalla:
-[id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
+[id]: asus-rog-republic-of-gamers-logo_3840x2160_xtrafondos.com.jpg  "The Dojocat"

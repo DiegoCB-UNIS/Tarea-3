@@ -1,0 +1,15 @@
+#Asingación de valores:
+a = int(input("Ingrese la variable a: "))
+b = int(input("Ingrese la variable b: "))
+
+#Registro de las variables de entrada
+print("\nRegistro:")
+print(f"a = {a}, Dirección de memoria = {id(a)}")
+print(f"b = {b}, Dirección de memoria = {id(b)}")
+
+# Intercambio (swap)
+a, b = b, a
+
+print("\nIntercambio (swap):")
+print(f"a = {a}, Dirección de memoria = {id(a)}")
+print(f"b = {b}, Dirección de memoria = {id(b)}")

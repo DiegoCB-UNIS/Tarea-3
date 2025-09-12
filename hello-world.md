@@ -23,3 +23,10 @@ Soy un estudiante de ingeniería ene electrónica. El motivo por el cuál decido
 
 ## Una de mis fondos de pantalla:
 [Fondo](https://wallpapers.com/images/hd/cool-4k-ultra-hd-nao22k6od4a4djyl.jpg)
+
+## Tabla de ejercicios resueltos:
+| Ejercicio 1 | -[x] terminado |
+|-------------|----------------|
+| Ejercicio 2 | -[ ] terminado |
+|-------------|----------------|
+| Ejercicio 3 | -[ ] terminado |

@@ -1,2 +1,2 @@
-# Tarea-3
-Aqui se mostraran los ejercicios de la tarea IDR, POINTER &amp; GitHub
+# DATA SOBRE MI:
+Soy un estudiante de ingeniería ene electrónica. El motivo por el cuál decido es porque quiero aprender y entender más acerca a todo relacionado con **tecnología** y todo lo que se vive en ella. 

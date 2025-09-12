@@ -6,3 +6,6 @@ Soy un estudiante de ingeniería ene electrónica. El motivo por el cuál decido
 **_Carrera:_** Ingeniería en electronica y telecomunicaciones
 ~~aunque hay veces que me cuesta~~
 
+
+##Hobbies:
+

@@ -25,8 +25,8 @@ Soy un estudiante de ingeniería ene electrónica. El motivo por el cuál decido
 [Fondo](https://wallpapers.com/images/hd/cool-4k-ultra-hd-nao22k6od4a4djyl.jpg)
 
 ## Tabla de ejercicios resueltos:
-| Ejercicio 1 | -[x] terminado |
+| Ejercicios  |    Terminados  |
 |-------------|----------------|
-| Ejercicio 2 | -[ ] terminado |
-|-------------|----------------|
-| Ejercicio 3 | -[ ] terminado |
+| Ejercicio 1 |      -[x]      |
+| Ejercicio 2 |      -[ ]      |
+| Ejercicio 3 |      -[ ]      |

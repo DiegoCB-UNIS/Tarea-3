@@ -9,3 +9,8 @@ Soy un estudiante de ingeniería ene electrónica. El motivo por el cuál decido
 
 ## Hobbies:
 
+1. Escuchar musica
+2. Ver peliculas
+3. Gamer
+4. GYM ~~aunque casi no puedo por tiempo~~
+

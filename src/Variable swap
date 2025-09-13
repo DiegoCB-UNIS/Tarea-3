@@ -1,12 +1,12 @@
 a = int(input("Ingrese la variable a: "))
 b = int(input("Ingrese la variable b: "))
 
-print("\nRegistro:")
+print("\nRegistros de las variables:")
 print(f"a = {a}, Dirección de memoria = {id(a)}")
 print(f"b = {b}, Dirección de memoria = {id(b)}")
 
 a, b = b, a
 
-print("\nIntercambio (swap):")
+print("\nProceso de SWAP:")
 print(f"a = {a} y su Dirección de memoria = {id(a)}")
 print(f"b = {b} y su Dirección de memoria = {id(b)}")
